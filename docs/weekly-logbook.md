@@ -29,7 +29,7 @@
   - docs/team-profile.md
   - docs/weekly-logbook.md
 
-- Commit link:[ https://github.com/thiri124/ICT105-Quartet-MVP.git](https://github.com/thiri124/ICT105-Quartet-MVP/commit/247f5453e539950376b9bf3269451e49db0fee38)
+- Commit link:(https://github.com/thiri124/ICT105-Quartet-MVP/commit/247f5453e539950376b9bf3269451e49db0fee38)
 
 ### Decision Made This Week
 
